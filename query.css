@@ -1,0 +1,195 @@
+@media(max-width:500px) {
+    
+    nav {
+        flex-direction: column;
+        height: 12%;
+
+    }
+
+    nav .left {
+        font-size: 2.5rem;
+    }
+
+    nav ul {
+        margin: 0;
+        
+        margin-left: 20px;
+    }
+
+    nav li {
+        font-size: 1.5rem;
+        margin: 0;
+        margin-right: 20px;
+
+    }
+
+    .firstSection {
+        margin: 310px 20px 0px 0px;
+        flex-direction: column;
+    }
+
+    .firstSection>div {
+        width: 90%;
+        margin-bottom: 100px;
+    }
+
+    main hr {
+
+
+        margin-left: 25%;
+    }
+
+    .rightSection img {
+        margin: 0;
+    }
+
+    h1 {
+        font-size: 2.7rem;
+    }
+
+    .secondSection h1 {
+        font-size: 2.7rem;
+
+    }
+
+    .secondSection {
+        margin-left: 10%;
+    }
+
+    .main-line {
+
+        width: 0px;
+
+        height: 0px;
+        
+    }
+    .main-exp-box{
+        flex-direction: column;
+        
+        justify-content: center;
+
+        
+    }
+    .exp-box{
+        flex-direction: row;
+        margin-top: 20px;
+        justify-content: center;
+
+    }
+    .line-box{
+        width: 0px;
+    }
+    .verticle-desc{
+        width: 200%;
+        font-size: 18px;
+    }
+    .edu-box{
+        width: 90%;
+        padding-bottom: 20px;
+        
+    }
+    .education{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+    }
+    .bbaulogo{
+        height: 100px;
+    }
+    .lpslogo{
+        height: 100px;
+    }
+    .skill-box{
+        flex-direction: column;
+    }
+    .performance-img img{
+        width: 100%;
+    }
+    .feature-work-section{
+        margin-top: 200px;
+    }
+    .feature-work{
+        flex-direction: column;
+        width: 100%;
+    }
+    .feature-desc{
+        width: 94%;
+    }
+    .website-img-desc img{
+        width: 100%;
+    }
+    .feature-pics{
+        width: 94%;
+    }
+    footer{
+        
+        width: 100%;
+    }
+    .main-footer{
+        padding-right: 40px;
+        
+        
+    }
+}
+@media(max-width:1100px){
+    .main-line {
+
+        width: 0px;
+
+        height: 0px;
+        
+    }
+    .main-exp-box{
+        flex-direction: column;
+        margin-left: 50px;
+        justify-content: center;
+    }
+    .exp-box{
+        flex-direction: row;
+        margin-top: 20px;
+
+    }
+    .line-box{
+        width: 0px;
+    }
+    .verticle-desc{
+        width: 200%;
+        font-size: 18px;
+    }
+    .feature-work-section{
+        margin-top: 200px;
+    }
+    .feature-work{
+        flex-direction: column;
+        width: 100%;
+    }
+    .feature-desc{
+        width: 94%;
+    }
+    .website-img-desc img{
+        width: 100%;
+    }
+    .feature-pics{
+        width: 94%;
+    }
+    .skill-box{
+        flex-direction: column;
+    }
+    .performance-img img{
+        width: 100%;
+    }
+    nav {
+        flex-direction: column;
+        height: 12%;
+
+    }
+    .firstSection {
+        margin: 140px 0 0 0;
+        flex-direction: column;
+    }
+    .firstSection>div {
+        width: 90%;
+        margin-bottom: 100px;
+    }
+}
